@@ -1239,9 +1239,9 @@ img.with-border{
 
 /* 07.1.5 Page With Outside Bottom Bar 			 */
 /* ----------------------------------------------*/
-.outside-bottom-bar-page #content{
+/*.outside-bottom-bar-page #content{
 	margin-top:145px;
-}
+}*/
 
 /* 07.1.6 Page Sidebar				 			 */
 /* ----------------------------------------------*/
@@ -2734,9 +2734,10 @@ footer .image-divider.fixed-height{
 
 .story-date{
 	float:left;
-	margin-left:16px;
-	height:85px; 
-	width:85px; 
+	margin-left:34px;
+	margin-top:17px;
+	height:50px; 
+	width:50px; 
 	background-color:#f0394d; 
 	border-radius:50%;
 }
